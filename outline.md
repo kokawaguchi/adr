@@ -2,11 +2,14 @@
 https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-of-the-madr-project/index.md
 -->
 
-## [short title of solved problem and solution]
+# [short title of solved problem and solution]
 
 Status: [proposed | rejected | accepted | deprecated | … | superseded by ADR-0005]
+
 Deciders: [list everyone involved in the decision]
-Date: [YYYY-MM-DD when the decision was last updated]
+
+Date: February 21, 2024
+
 Technical Story: [description | ticket/issue URL]
 
 Context and Problem Statement
