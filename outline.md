@@ -1,71 +1,23 @@
-<!-- template from:
-https://github.com/joelparkerhenderson/architecture-decision-record/blob/main/locales/en/templates/decision-record-template-of-the-madr-project/index.md
--->
+<!-- outline from : https://github.com/joelparkerhenderson/architecture-decision-record/tree/main/locales/en/templates/decision-record-template-by-michael-nygard -->
 
-# [short title of solved problem and solution]
+# Title
 
-Status: [proposed | rejected | accepted | deprecated | … | superseded by ADR-0005]
+## Status
 
-Deciders: [list everyone involved in the decision]
+What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
 
-Date: February 21, 2024
+## Context
 
-Technical Story: [description | ticket/issue URL]
+What is the issue that we're seeing that is motivating this decision or change?
 
-Context and Problem Statement
+## Decision
 
-[Describe the context and problem statement, e.g., in free form using two to three sentences. You may want to articulate the problem in form of a question.]
+What is the change that we're proposing and/or doing?
 
-Decision Drivers
+## Consequences
 
-[driver 1, e.g., a force, facing concern, …]
-[driver 2, e.g., a force, facing concern, …]
-…
-Considered Options
+What becomes easier or more difficult to do because of this change?
 
-[option 1]
-[option 2]
-[option 3]
-…
-Decision Outcome
-
-Chosen option: "[option 1]", because [justification. e.g., only option, which meets k.o. criterion decision driver | which resolves force force | … | comes out best (see below)].
-
-Positive Consequences
-
-[e.g., improvement of quality attribute satisfaction, follow-up decisions required, …]
-…
-Negative Consequences
-
-[e.g., compromising quality attribute, follow-up decisions required, …]
-…
-Pros and Cons of the Options
-
-[option 1]
-
-[example | description | pointer to more information | …]
-
-Good, because [argument a]
-Good, because [argument b]
-Bad, because [argument c]
-…
-[option 2]
-
-[example | description | pointer to more information | …]
-
-Good, because [argument a]
-Good, because [argument b]
-Bad, because [argument c]
-…
-[option 3]
-
-[example | description | pointer to more information | …]
-
-Good, because [argument a]
-Good, because [argument b]
-Bad, because [argument c]
-…
-Links
-
-[Link type] [Link to ADR]
-…
+- **point one**
+- **point two**
+- **point three**

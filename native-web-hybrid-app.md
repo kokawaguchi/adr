@@ -1,5 +1,9 @@
 # Architecture Decision Record: Native, Web or Hybrid App
 
+## Status
+
+Proposed
+
 ## Context
 
 The team is tasked with creating a new app for a client that allows users to order food from local restaurants for delivery or pickup. The team needs to decide on the approach for developing the food ordering app: whether to develop it as a native mobile, web, or hyrbid application.
