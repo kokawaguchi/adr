@@ -10,6 +10,10 @@ A requirement for the food ordering app is to have a user-friendly interface tha
 
 ## Decision
 
+We are proposing the use of React Native.
+
+## Rationale
+
 To provide cross-platform UI consistency and delivery of an app that meets the client's requirements, we have decided to use React Native as the framework. Using React Native will enhance the development of creating a user-friendly interface by:
 
 - **Code Sharing**
