@@ -8,6 +8,8 @@ Proposed
 
 A requirement for the food ordering app is to have a user-friendly interface that is easy to navigate and delivers a seamless ordering experience. For the development team to create such an interface, a decision on which UI framework to use is being proposed.
 
+Having an engaging UI is vital to the app, as it permeates multiple functionalities including ordering, notifications, payment, and interacting with other user-generated content.
+
 ## Decision
 
 We are proposing the use of React Native.
