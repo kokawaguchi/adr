@@ -1,23 +1,23 @@
-# Title
+# Architecture Decision Record: Permissions in User's Location
 
 ## Status
 
-What is the status, such as proposed, accepted, rejected, deprecated, superseded, etc.?
+Proposed
 
 ## Context
 
-What is the issue that we're seeing that is motivating this decision or change?
+The app requires tracking of the user's location to provide a variety of key functions, such as restaurant recommendations, estimated delivery times, and more. This requires permission from the user to allow location-based services.
 
 ## Decision
 
-## Rational
+The app will give the user the option to opt-in to the location-based service features.
 
-What is the change that we're proposing and/or doing?
+## Rationale
+
+The opt-in feature will promote user privacy. If the user opts-in to these features, GPS-based tracking in the device will be utilized to provide the user's precise location. With the user's location, the app will be able to send notifications such as nearby restaurant recommendations.
 
 ## Consequences
 
-What becomes easier or more difficult to do because of this change?
+The development team will review the Android Developers [Request runtime permissions](https://developer.android.com/training/permissions/requesting) guidelines to ensure the app falls within these recommendations at all times.
 
-- **point one**
-- **point two**
-- **point three**
+By giving the user the option to opt-in to these services, total overall participation may be less. However, having this feature increases the app's credibility and trust.
