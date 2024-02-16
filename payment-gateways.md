@@ -8,7 +8,7 @@ Proposed
 
 User payments need to be handled through the app with a consideration for security, user experience, supported regions, and transaction fees. These transactions are handled via a payment gateway, which is a service that handles the payment processing between the app and the customer's bank.
 
-As payments require a high level of security around sensitive user data, it is vital to use a payment gateway that is reputable and well established. This will give users confidence will making payments through the app, which can lead to higher sales.
+As payments require a high level of security around sensitive user data, it is vital to use a payment gateway that is reputable and well established. This will give users confidence while making payments through the app, which can lead to higher sales.
 
 ## Decision
 
