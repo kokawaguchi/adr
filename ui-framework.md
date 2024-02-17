@@ -18,12 +18,9 @@ We are proposing the use of React Native.
 
 To provide cross-platform UI consistency and delivery of an app that meets the client's requirements, we have decided to use React Native as the framework. Using React Native will enhance the development of creating a user-friendly interface by:
 
-- **Code Sharing**
-  React Native is cross-platform, therefore the development team will only have to write the majority of code once. This provides more time for the developers to focus on creating a seamless ordering experience across both platforms.
-- **Popularity**
-  As React Native is a commonly used framework, many developers have the skills necessary to utilize the framework for creating this app. This popularity also means React Native is well documented and supported, which allows developers to leverage existing solutions.
-- **Performance**
-  With the wide-spread use of React Native, the framework is well optimized for delivering the performance many users expect from other apps they may use.
+- **Code Sharing** : React Native is cross-platform, therefore the development team will only have to write the majority of code once. This provides more time for the developers to focus on creating a seamless ordering experience across both platforms.
+- **Popularity** : As React Native is a commonly used framework, many developers have the skills necessary to utilize the framework for creating this app. This popularity also means React Native is well documented and supported, which allows developers to leverage existing solutions.
+- **Performance** : With the wide-spread use of React Native, the framework is well optimized for delivering the performance many users expect from other apps they may use.
 
 ## Consequences
 

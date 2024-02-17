@@ -16,12 +16,9 @@ Braintree will be used as the payment gateway as it is noted by [Forbes](https:/
 
 ## Rationale
 
-- **Security**
-  Braintree was founded in 2007 and acquired by PayPal in 2013, establishing it as a recognized brand that has a reputation for securely handling online transactions.
-- **Acceptance**
-  Covered by the most popular online payment merchants, such as PayPal, Venmo, ApplePay, Visa, and Mastercard.
-- **APIs**
-  Being an established service, Braintree is well-documented for API and other developer tools, meaning integration costs and efforts will be reduced.
+- **Security** : Braintree was founded in 2007 and acquired by PayPal in 2013, establishing it as a recognized brand that has a reputation for securely handling online transactions.
+- **Acceptance** : Covered by the most popular online payment merchants, such as PayPal, Venmo, ApplePay, Visa, and Mastercard.
+- **APIs** : Being an established service, Braintree is well-documented for API and other developer tools, meaning integration costs and efforts will be reduced.
 
 ## Consequences
 

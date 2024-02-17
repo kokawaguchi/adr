@@ -14,12 +14,9 @@ The app will use an Oracle database to store order history.
 
 ## Rationale
 
-- **Expertise**
-  The development team has extensive knowledge of Oracle through their studies and personal use. As Oracle is a widely used database solution, there are sufficient resources available to the team should they require support.
-- **SQL Functionality**
-  Oracle supports the use of SQL, which provides security, scalability, and data integrity to relational databases. It will also easily integrate with Python, the proposed backend language.
-- **Scalability**
-  Oracle databases are able to query large datasets, which will be beneficial as the app grows.
+- **Expertise** : The development team has extensive knowledge of Oracle through their studies and personal use. As Oracle is a widely used database solution, there are sufficient resources available to the team should they require support.
+- **SQL Functionality** : Oracle supports the use of SQL, which provides security, scalability, and data integrity to relational databases. It will also easily integrate with Python, the proposed backend language.
+- **Scalability** : Oracle databases are able to query large datasets, which will be beneficial as the app grows.
 
 ## Consequences
 

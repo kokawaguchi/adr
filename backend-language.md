@@ -14,12 +14,9 @@ The team proposes the use of Python for this context.
 
 ## Rationale
 
-- **Expertise**
-  The development team has extensively covered the Python language in both their studies and personal lives. As Python is a well developed language there is a plethora of online and community support to utilize, if/when complex problems arise.
-- **Libraries and Frameworks**
-  Python has many API frameworks, most notably the REST variants such as Django, Flask, and Pyramid. These frameworks can be used for various levels of scale, while also providing tasks such as form validation, form generation, and database connectivity.
-- **Asynchronous**
-  As Python supports asynchronous programming, it can handle large volumes of user API requests simultaneously, which will be necessary during peak food ordering times.
+- **Expertise** : The development team has extensively covered the Python language in both their studies and personal lives. As Python is a well developed language there is a plethora of online and community support to utilize, if/when complex problems arise.
+- **Libraries and Frameworks** : Python has many API frameworks, most notably the REST variants such as Django, Flask, and Pyramid. These frameworks can be used for various levels of scale, while also providing tasks such as form validation, form generation, and database connectivity.
+- **Asynchronous** : As Python supports asynchronous programming, it can handle large volumes of user API requests simultaneously, which will be necessary during peak food ordering times.
 
 ## Consequences
 

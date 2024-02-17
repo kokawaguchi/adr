@@ -10,7 +10,7 @@ The team is tasked with creating a new app for a client that allows users to ord
 
 ## Decision
 
-We have decided to develop the food ordering app as a native mobile application
+We have decided to develop the food ordering app as a native mobile application.
 
 ## Rationale
 
@@ -23,7 +23,3 @@ We have decided to develop the food ordering app as a native mobile application
 - Developing a native app may require more time and resources compared to a web or hybrid app
 - The team will need to develop separate versions of the app for different platforms (iOS and Android), which can increase development complexity.
 - Ongoing maintenance and updates will be required for each platform the app is deployed on.
-
-## Conclusion
-
-The decision to develop a native app aligns with the client's requirements for a high-performance, feature-rich, and secure food ordering application. While it may involve additional development effort, the benefits of native development outweigh any downsides in this scenario.
